@@ -11,7 +11,7 @@
         When a product order is saved on the network, a hash code is generated for that product, making it easier to track the transaction. In our system, a QR code is generated for each product order. Customers can upload the QR code on the website or can scan the QR code and can get the product details based on which customer can decide whether to buy the product or not by verifying the product details. If the QR code does not get scanned then the customer will get the related notification that the product is counterfeited.
         
         
-                                                            ***System Workflow Diagram***
+***System Workflow Diagram***
 
 
 ![image](https://github.com/ItsAvi165/Fake-Product-Identification-System/assets/69665805/acf958da-778a-4e4a-b079-02e68e1d018e)
